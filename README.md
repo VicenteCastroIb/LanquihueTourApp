@@ -43,7 +43,7 @@ LlanquihueTour2/
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/LlanquihueTour2.git
+git clone https://github.com/VicenteCastroIb/LlanquihueTour2.git
 ```
 
 2. Abre el proyecto en IntelliJ IDEA:
