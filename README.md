@@ -1,4 +1,4 @@
-# LlanquihueTour2
+# LlanquihueTour
 
 ## Descripción
 
@@ -43,7 +43,7 @@ LlanquihueTour2/
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/VicenteCastroIb/LlanquihueTour.git
+git clone https://github.com/VicenteCastroIb/LanquihueTour.git
 ```
 
 2. Abre el proyecto en IntelliJ IDEA:
