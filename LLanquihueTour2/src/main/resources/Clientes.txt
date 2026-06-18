@@ -1,0 +1,5 @@
+Juan;Pérez;12345678-9;juan.perez@gmail.com;+56912345678;Av. Libertador;1234;Santiago;Metropolitana;8320000;CLI001;VIP;12
+María;González;23456789-0;maria.gonzalez@hotmail.com;+56923456789;Calle Los Pinos;567;Valparaíso;Valparaíso;2340000;CLI002;Regular;2
+Carlos;Muñoz;34567890-1;carlos.munoz@gmail.com;+56934567890;Pasaje Las Rosas;89;Concepción;Biobío;4030000;CLI003;Regular;3
+Ana;Rodríguez;45678901-2;ana.rodriguez@outlook.com;+56945678901;Av. España;2345;Temuco;Araucanía;4780000;CLI004;VIP;0
+Luis;Martínez;56789012-3;luis.martinez@gmail.com;+56956789012;Calle Zenteno;678;La Serena;Coquimbo;1700000;CLI005;Premium;7
