@@ -1,5 +1,5 @@
-Aventuras del Sur;Transporte;PROV001;Roberto Soto;roberto.soto@aventurasdelsur.cl;+56912345678;Av. O'Higgins;456;Puerto Montt;Los Lagos;5480000;Si;1200000
-Rafting Extremo SpA;Deportes Acuáticos;PROV002;Camila Vega;camila.vega@raftingextremo.cl;+56923456789;Calle Cochrane;123;Pucón;Araucanía;4920000;Si;850000
-Hostal Volcán;Alojamiento;PROV003;Diego Fuentes;diego.fuentes@hostalvolcan.cl;+56934567890;Pasaje Los Araucanos;78;Villarrica;Araucanía;4930000;Si;950000
-Cumbre Alta Equipos;Arriendo de Equipos;PROV004;Valentina Mora;valentina.mora@cumbrealta.cl;+56945678901;Av. Colo Colo;890;Coyhaique;Aysén;5950000;Si;680000
-Senderos Patagonia;Guías Locales;PROV005;Andrés Cisternas;andres.cisternas@senderospatagonia.cl;+56956789012;Calle Baquedano;234;Puerto Natales;Magallanes;6160000;No;430000
+Aventuras del Sur;Transporte;PROV001;Roberto Soto;roberto.soto@aventurasdelsur.cl;+56912345678;Av. O'Higgins;456;Puerto Montt;Los Lagos;5480000;true;1200000
+Rafting Extremo SpA;Deportes Acuáticos;PROV002;Camila Vega;camila.vega@raftingextremo.cl;+56923456789;Calle Cochrane;123;Pucón;Araucanía;4920000;true;850000
+Hostal Volcán;Alojamiento;PROV003;Diego Fuentes;diego.fuentes@hostalvolcan.cl;+56934567890;Pasaje Los Araucanos;78;Villarrica;Araucanía;4930000;true;950000
+Cumbre Alta Equipos;Arriendo de Equipos;PROV004;Valentina Mora;valentina.mora@cumbrealta.cl;+56945678901;Av. Colo Colo;890;Coyhaique;Aysén;5950000;true;680000
+Senderos Patagonia;Guías Locales;PROV005;Andrés Cisternas;andres.cisternas@senderospatagonia.cl;+56956789012;Calle Baquedano;234;Puerto Natales;Magallanes;6160000;false;430000
