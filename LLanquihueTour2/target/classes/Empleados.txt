@@ -1,0 +1,5 @@
+Carolina;Reyes;12678934-5;carolina.reyes@turismoaventura.cl;+56912345678;Av. Independencia;234;Puerto Montt;Los Lagos;5480000;Recepcionista;950000;2021-03-15;EMP000;true
+Sebastián;Torres;23789045-6;sebastian.torres@turismoaventura.cl;+56923456789;Calle Prat;567;Pucón;Araucanía;4920000;Jefe Marketing;880000;2022-07-01;EMP001;true
+Fernanda;Lagos;34890156-7;fernanda.lagos@turismoaventura.cl;+56934567890;Pasaje Los Boldos;89;Villarrica;Araucanía;4930000;Coordinadora de Operaciones;1350000;2020-01-10;EMP002;true
+Matías;Contreras;45901267-8;matias.contreras@turismoaventura.cl;+56945678901;Av. Simpson;456;Coyhaique;Aysén;5950000;Encargado Proveedores;900000;2023-02-20;EMP003;true
+Javiera;Espinoza;56012378-9;javiera.espinoza@turismoaventura.cl;+56956789012;Calle Bulnes;123;Puerto Natales;Magallanes;6160000;Encargada de RRHH;1200000;2019-11-05;EMP004;false

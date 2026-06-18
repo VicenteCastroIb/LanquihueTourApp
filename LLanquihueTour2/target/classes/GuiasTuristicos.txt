@@ -1,0 +1,5 @@
+Pedro;Alvarado;12678934-5;pedro.alvarado@turismoaventura.cl;+56912345678;Av. Colón;345;Puerto Montt;Los Lagos;5480000;Guía Turístico;920000;2021-05-10;Trekking,Kayak;Español,Inglés;0;true;GUI001
+Sofía;Navarro;12678934-5;sofia.navarro@turismoaventura.cl;+56923456789;Calle Urrutia;678;Pucón;Araucanía;4920000;Guía Turístico Senior;1100000;2019-08-15;Rafting,Escalada,Canopy;Español,Inglés,Portugués;4;true;GUI002
+Ignacio;Salinas;12678934-5;ignacio.salinas@turismoaventura.cl;+56934567890;Pasaje Ñielol;92;Temuco;Araucanía;4780000;Guía Turístico;880000;2022-03-01;Senderismo,Ciclismo;Español,Alemán;1;true;GUI003
+Valentina;Campos;12678934-5;valentina.campos@turismoaventura.cl;+56945678901;Av. Baquedano;211;Coyhaique;Aysén;5950000;Guía Turístico Senior;1050000;2020-11-20;Trekking,Pesca Deportiva,Cabalgata;Español,Inglés;3;true;GUI004
+Tomás;Herrera;12678934-5;tomas.herrera@turismoaventura.cl;+56956789012;Calle Magallanes;134;Puerto Natales;Magallanes;6160000;Guía Turístico;950000;2023-01-08;Trekking Patagónico,Avistamiento de Fauna;Español,Inglés,Francés;5;true;GUI005
